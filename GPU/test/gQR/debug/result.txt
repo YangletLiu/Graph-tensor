@@ -1,0 +1,49 @@
+gQR_3D_based of G[1000*1000*100] time: 4.640378s
+gQR_3D_based of G[1000*1000*200] time: 7.819595s
+gQR_3D_based of G[1000*1000*300] time: 11.259825s
+gQR_3D_based of G[1000*1000*400] time: 13.578532s
+gQR_3D_based of G[1000*1000*500] time: 17.580523s
+gQR_3D_based of G[1000*1000*600] time: 20.855597s
+gQR_3D_based of G[1000*1000*700] time: 22.876583s
+gQR_3D_based of G[1000*1000*800] time: 25.514820s
+gQR_3D_based of G[1000*1000*900] time: 30.112512s
+gQR_3D_batched of G[1000*1000*100] time: 3.652435s
+gQR_3D_batched of G[1000*1000*200] time: 6.474072s
+gQR_3D_batched of G[1000*1000*300] time: 10.170389s
+gQR_3D_batched of G[1000*1000*400] time: 13.210678s
+gQR_3D_batched of G[1000*1000*500] time: 16.573485s
+gQR_3D_batched of G[1000*1000*600] time: 19.270906s
+gQR_3D_batched of G[1000*1000*700] time: 22.998771s
+gQR_3D_batched of G[1000*1000*800] time: 25.114033s
+gQR_3D_batched of G[1000*1000*900] time: 27.029230s
+CUBLAS initialization failed!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+gQR_3D_batched of G[1000*1000*100] time: 2.018387s
+gQR_3D_batched of G[1000*1000*200] time: 2.230172s
+gQR_3D_batched of G[1000*1000*300] time: 2.465552s
+gQR_3D_batched of G[1000*1000*400] time: 2.798271s
+gQR_3D_batched of G[1000*1000*500] time: 3.111595s
+gQR_3D_batched of G[1000*1000*600] time: 3.147822s
+gQR_3D_batched of G[1000*1000*700] time: 3.623226s
+gQR_3D_batched of G[1000*1000*800] time: 3.820217s
+gQR_3D_batched of G[1000*1000*900] time: 3.924457s
+gQR_3D_batched of G[1000*1000*1000] time: 4.280933s
+gQR_3D_based of G[1000*1000*100] time: 5.005975s
+gQR_3D_based of G[1000*1000*200] time: 7.786696s
+gQR_3D_based of G[1000*1000*300] time: 11.490872s
+gQR_3D_based of G[1000*1000*400] time: 14.421254s
+gQR_3D_based of G[1000*1000*500] time: 17.135400s
+gQR_3D_based of G[1000*1000*600] time: 20.325082s
+gQR_3D_based of G[1000*1000*700] time: 24.282193s
+gQR_3D_based of G[1000*1000*800] time: 25.436353s
+gQR_3D_based of G[1000*1000*900] time: 28.392737s
+gQR_3D_based of G[1000*1000*100] time: 4.714555s

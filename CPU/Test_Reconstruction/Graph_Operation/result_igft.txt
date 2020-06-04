@@ -1,0 +1,10 @@
+nodes:1000 time:35.086627 
+nodes:2000 time:141.132589 
+nodes:3000 time:318.540351 
+nodes:4000 time:567.748718 
+nodes:5000 time:887.726598 
+nodes:6000 time:1280.174972 
+nodes:7000 time:1741.057070 
+nodes:8000 time:2281.667808 
+nodes:9000 time:2885.218547 
+nodes:10000 time:3569.716210 

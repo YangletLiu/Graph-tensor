@@ -1,0 +1,105 @@
+gFilter_3D_batched of G[1000*1000*100] time: 4.415892s
+gFilter_3D_batched of G[1000*1000*200] time: 7.103726s
+gFilter_3D_batched of G[1000*1000*300] time: 12.119247s
+gFilter_3D_batched of G[1000*1000*400] time: 16.058406s
+gFilter_3D_batched of G[1000*1000*500] time: 21.141754s
+gFilter_3D_batched of G[1000*1000*600] time: 25.683673s
+gFilter_3D_batched of G[1000*1000*700] time: 32.161638s
+gFilter_3D_batched of G[1000*1000*800] time: 35.218211s
+gFilter_3D_batched of G[1000*1000*900] time: 39.981940s
+gFilter_3D_batched of G[1000*1000*1000] time: 46.290918s
+gFilter_2D_based of G[1000*10000] time: 1.156766s
+gFilter_2D_based of G[2000*10000] time: 1.844361s
+gFilter_2D_based of G[3000*10000] time: 2.734289s
+gFilter_2D_based of G[1000*10000] time: 1.132398s
+gFilter_2D_based of G[2000*10000] time: 1.837948s
+gFilter_2D_based of G[3000*10000] time: 2.704584s
+gFilter_2D_based of G[4000*10000] time: 3.774991s
+gFilter_2D_based of G[5000*10000] time: 5.019500s
+gFilter_2D_based of G[6000*10000] time: 6.683383s
+gFilter_2D_based of G[7000*10000] time: 8.103785s
+gFilter_2D_based of G[8000*10000] time: 10.142961s
+gFilter_2D_based of G[9000*10000] time: 12.212410s
+gFilter_2D_based of G[10000*10000] time: 14.688968s
+gFilter_1D of G[10000*1] time: 11.005497s
+gFilter_1D of G[11000*1] time: 13.285378s
+gFilter_1D of G[12000*1] time: 15.790835s
+gFilter_1D of G[13000*1] time: 19.086264s
+gFilter_1D of G[14000*1] time: 21.714128s
+gFilter_1D of G[15000*1] time: 26.332260s
+gFilter_1D of G[16000*1] time: 28.965767s
+gFilter_1D of G[17000*1] time: 34.700670s
+gFilter_1D of G[18000*1] time: 38.667031s
+gFilter_1D of G[19000*1] time: 43.722339s
+gFilter_1D of G[20000*1] time: 49.906210s
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+gFilter_3D_batched of G[1000*1000*100] time: 3.923946s
+gFilter_3D_batched of G[1000*1000*200] time: 6.001476s
+gFilter_3D_batched of G[1000*1000*300] time: 8.517590s
+gFilter_3D_batched of G[1000*1000*400] time: 11.428667s
+gFilter_3D_batched of G[1000*1000*500] time: 13.741926s
+gFilter_3D_batched of G[1000*1000*600] time: 16.725618s
+gFilter_3D_batched of G[1000*1000*700] time: 19.428964s
+gFilter_3D_batched of G[1000*1000*800] time: 22.132188s
+gFilter_3D_batched of G[1000*1000*900] time: 25.104946s
+gFilter_3D_batched of G[1000*1000*1000] time: 27.044594s
+gProduct_3D_batched of G[1000*1000*100] time: 0.977460s
+gProduct_3D_batched of G[1000*1000*200] time: 1.472407s
+gProduct_3D_batched of G[1000*1000*300] time: 1.855597s
+gProduct_3D_batched of G[1000*1000*400] time: 1.969907s
+gProduct_3D_batched of G[1000*1000*500] time: 2.982136s
+gProduct_3D_batched of G[1000*1000*600] time: 3.322844s
+gProduct_3D_batched of G[1000*1000*700] time: 4.798543s
+gProduct_3D_batched of G[1000*1000*800] time: 4.320097s
+gProduct_3D_batched of G[1000*1000*900] time: 4.973322s
+gProduct_3D_batched of G[1000*1000*1000] time: 5.373836s
+gProduct_3D_based of G[1000*1000*100] time: 2.127104s
+gProduct_3D_based of G[1000*1000*200] time: 2.421982s
+gProduct_3D_based of G[1000*1000*300] time: 2.762712s
+gProduct_3D_based of G[1000*1000*400] time: 3.117594s
+gProduct_3D_based of G[1000*1000*500] time: 3.423761s
+gProduct_3D_based of G[1000*1000*600] time: 3.434796s
+gProduct_3D_based of G[1000*1000*700] time: 3.890097s
+gProduct_3D_based of G[1000*1000*800] time: 4.519179s
+gProduct_3D_based of G[1000*1000*900] time: 4.989498s
+gProduct_3D_based of G[1000*1000*1000] time: 5.344826s
+gProduct_3D_based of G[1000*1000*100] time: 2.175029s
+gProduct_3D_based of G[1000*1000*200] time: 2.431233s
+gProduct_3D_based of G[1000*1000*300] time: 2.787137s
+gProduct_3D_based of G[1000*1000*400] time: 2.987894s
+gProduct_3D_based of G[1000*1000*500] time: 3.452410s
+gProduct_3D_based of G[1000*1000*600] time: 3.482401s
+gProduct_3D_based of G[1000*1000*700] time: 3.816334s
+gProduct_3D_based of G[1000*1000*800] time: 4.083958s
+gProduct_3D_based of G[1000*1000*900] time: 4.497712s
+gProduct_3D_based of G[1000*1000*1000] time: 4.753060s
+gProduct_3D_based of G[1000*1000*100] time: 2.092995s
+gProduct_3D_based of G[1000*1000*200] time: 2.280804s
+gProduct_3D_based of G[1000*1000*300] time: 2.696407s
+gProduct_3D_based of G[1000*1000*400] time: 2.794999s
+gProduct_3D_based of G[1000*1000*500] time: 3.343911s
+gProduct_3D_based of G[1000*1000*600] time: 3.721571s
+gProduct_3D_based of G[1000*1000*700] time: 3.693645s
+gProduct_3D_based of G[1000*1000*800] time: 3.952057s
+gProduct_3D_based of G[1000*1000*900] time: 4.382322s
+gProduct_3D_based of G[1000*1000*1000] time: 4.628976s
+gProduct_3D_batched of G[1000*1000*100] time: 1.034460s
+gProduct_3D_batched of G[1000*1000*200] time: 1.168825s
+gProduct_3D_batched of G[1000*1000*300] time: 1.640219s
+gProduct_3D_batched of G[1000*1000*400] time: 1.960057s
+gProduct_3D_batched of G[1000*1000*500] time: 1.970474s
+gProduct_3D_batched of G[1000*1000*600] time: 2.703732s
+gProduct_3D_batched of G[1000*1000*700] time: 3.004315s
+gProduct_3D_batched of G[1000*1000*800] time: 2.836418s
+gProduct_3D_batched of G[1000*1000*900] time: 3.257965s
+gProduct_3D_batched of G[1000*1000*1000] time: 3.441350s

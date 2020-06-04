@@ -1,0 +1,75 @@
+4 8 5 7 2 Frame: 10	Error: 0.060929	 Time: 71.322386
+2 3 4 5 1 Frame: 10	Error: 0.071390	 Time: 70.675318
+8 5 0 6 4 Frame: 10	Error: 0.086078	 Time: 71.329518
+2 3 1 5 7 Frame: 10	Error: 0.109951	 Time: 70.565057
+8 0 2 1 6 Frame: 10	Error: 0.158053	 Time: 71.271657
+1 9 6 8 5 Frame: 11	Error: 0.059278	 Time: 81.175905
+1 6 0 2 3 Frame: 11	Error: 0.094035	 Time: 81.769070
+1 0 3 7 2 Frame: 11	Error: 0.063756	 Time: 81.709730
+8 1 5 0 3 Frame: 11	Error: 0.082009	 Time: 80.652310
+0 6 3 4 7 Frame: 11	Error: 0.088063	 Time: 81.759423
+3 0 1 7 4 5 Frame: 12	Error: 0.055789	 Time: 93.622124
+2 10 4 3 0 6 Frame: 12	Error: 0.066795	 Time: 93.878264
+7 9 8 1 5 10 Frame: 12	Error: 0.127321	 Time: 93.181524
+6 10 3 1 5 9 Frame: 12	Error: 0.079230	 Time: 94.159860
+7 9 6 2 4 1 Frame: 12	Error: 0.075031	 Time: 93.711311
+7 11 0 2 1 10 Frame: 13	Error: 0.084872	 Time: 92.521024
+8 9 2 10 3 11 Frame: 13	Error: 0.067559	 Time: 93.520986
+11 0 1 3 4 10 Frame: 13	Error: 0.081673	 Time: 93.185939
+3 0 7 2 11 8 Frame: 13	Error: 0.077839	 Time: 92.316359
+6 5 7 0 2 3 Frame: 13	Error: 0.055722	 Time: 93.080986
+6 2 12 9 11 0 7 Frame: 14	Error: 0.060658	 Time: 102.847936
+5 6 9 7 2 12 11 Frame: 14	Error: 0.077941	 Time: 104.045474
+9 7 10 6 2 0 8 Frame: 14	Error: 0.060920	 Time: 102.785400
+10 3 0 12 4 2 11 Frame: 14	Error: 0.131833	 Time: 104.004407
+4 11 8 3 0 12 10 Frame: 14	Error: 0.129137	 Time: 102.799092
+7 5 1 10 4 9 11 Frame: 15	Error: 0.148000	 Time: 121.226675
+7 10 0 13 11 9 1 Frame: 15	Error: 0.068831	 Time: 121.869119
+12 1 10 9 5 3 11 Frame: 15	Error: 0.061255	 Time: 121.004602
+11 7 0 1 13 3 5 Frame: 15	Error: 0.071011	 Time: 122.456659
+5 1 2 9 8 11 13 Frame: 15	Error: 0.071667	 Time: 121.392111
+14 10 7 8 12 13 1 4 Frame: 16	Error: 0.137617	 Time: 143.932689
+4 3 12 7 0 2 10 14 Frame: 16	Error: 0.059151	 Time: 142.690016
+3 13 7 6 9 12 2 1 Frame: 16	Error: 0.097147	 Time: 142.450458
+11 10 14 0 13 7 1 4 Frame: 16	Error: 0.214926	 Time: 143.928652
+1 6 4 3 9 10 5 12 Frame: 16	Error: 0.064258	 Time: 142.408261
+11 0 9 10 13 7 8 3 Frame: 17	Error: 0.069925	 Time: 133.685335
+5 15 2 14 11 3 8 9 Frame: 17	Error: 0.080897	 Time: 135.655680
+11 13 9 15 8 6 2 12 Frame: 17	Error: 0.109660	 Time: 134.238926
+11 15 6 10 12 2 1 9 Frame: 17	Error: 0.063474	 Time: 135.425912
+6 7 15 10 8 14 4 3 Frame: 17	Error: 0.072340	 Time: 134.372748
+8 5 15 12 0 4 2 11 3 Frame: 18	Error: 0.083534	 Time: 158.565983
+0 15 2 9 3 10 16 7 12 Frame: 18	Error: 0.086924	 Time: 157.308521
+7 1 6 4 9 10 14 11 2 Frame: 18	Error: 0.082738	 Time: 158.073214
+5 2 14 1 11 4 8 3 13 Frame: 18	Error: 0.105062	 Time: 156.621495
+9 8 10 12 14 7 2 0 4 Frame: 18	Error: 0.150941	 Time: 157.724943
+3 15 11 4 10 12 2 13 0 Frame: 19	Error: 0.066236	 Time: 180.569054
+2 8 11 4 14 12 15 16 7 Frame: 19	Error: 0.098953	 Time: 181.638250
+9 8 5 17 11 10 12 6 14 Frame: 19	Error: 0.096728	 Time: 180.959765
+14 3 17 10 13 0 15 9 2 Frame: 19	Error: 0.076876	 Time: 181.169556
+5 16 6 3 13 1 7 10 14 Frame: 19	Error: 0.080439	 Time: 182.110321
+6 0 14 16 15 13 18 8 1 4 Frame: 20	Error: 0.080916	 Time: 170.384767
+2 7 13 11 6 16 5 4 14 12 Frame: 20	Error: 0.093481	 Time: 172.019656
+17 13 1 16 4 5 6 14 9 11 Frame: 20	Error: 0.085280	 Time: 170.767395
+0 4 13 7 2 11 1 16 14 10 Frame: 20	Error: 0.124553	 Time: 172.302593
+9 8 13 17 15 3 7 0 12 5 Frame: 20	Error: 0.141409	 Time: 170.580285
+num_miss: 5		Frame: 10	Error: 0.073894	 Time: 10.062169	 Iter: 1
+num_miss: 5		Frame: 10	Error: 0.062308	 Time: 18.727711	 Iter: 2
+num_miss: 5		Frame: 10	Error: 0.061699	 Time: 27.358617	 Iter: 3
+num_miss: 5		Frame: 10	Error: 0.061468	 Time: 36.203404	 Iter: 4
+num_miss: 5		Frame: 10	Error: 0.061336	 Time: 45.065977	 Iter: 5
+num_miss: 5		Frame: 10	Error: 0.061261	 Time: 54.032732	 Iter: 6
+num_miss: 5		Frame: 10	Error: 0.061223	 Time: 62.426481	 Iter: 7
+num_miss: 5		Frame: 10	Error: 0.061208	 Time: 71.227786	 Iter: 8
+num_miss: 5		Frame: 10	Error: 0.061207	 Time: 79.919702	 Iter: 9
+num_miss: 5		Frame: 10	Error: 0.061213	 Time: 88.791479	 Iter: 10
+num_miss: 5		Frame: 10	Error: 0.061222	 Time: 97.491299	 Iter: 11
+num_miss: 5		Frame: 10	Error: 0.061229	 Time: 107.142942	 Iter: 12
+num_miss: 5		Frame: 10	Error: 0.061235	 Time: 117.535612	 Iter: 13
+num_miss: 5		Frame: 10	Error: 0.061239	 Time: 124.290405	 Iter: 14
+num_miss: 5		Frame: 10	Error: 0.061243	 Time: 131.681802	 Iter: 15
+num_miss: 5		Frame: 10	Error: 0.061245	 Time: 141.619035	 Iter: 16
+num_miss: 5		Frame: 10	Error: 0.061247	 Time: 150.098825	 Iter: 17
+num_miss: 5		Frame: 10	Error: 0.061248	 Time: 159.055706	 Iter: 18
+num_miss: 5		Frame: 10	Error: 0.061248	 Time: 168.498611	 Iter: 19
+num_miss: 5		Frame: 10	Error: 0.061248	 Time: 176.754716	 Iter: 20

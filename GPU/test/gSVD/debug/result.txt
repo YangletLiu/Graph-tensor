@@ -1,0 +1,129 @@
+gSVD_3D_batched of G[1000*1000*100] time: 11.446649s
+gSVD_3D_batched of G[1000*1000*200] time: 36.252416s
+gSVD_3D_batched of G[1000*1000*300] time: 31.750176s
+gSVD_3D_batched of G[1000*1000*400] time: 42.130023s
+gSVD_3D_batched of G[1000*1000*500] time: 52.483247s
+gSVD_3D_batched of G[1000*1000*600] time: 63.526626s
+gSVD_3D_batched of G[1000*1000*700] time: 73.447647s
+行号:106
+错误:out of memory
+行号:108
+错误:out of memory
+CUBLAS initialization failed!
+gSVD_3D_batched of G[1000*1000*900] time: 94.460146s
+CUBLAS initialization failed!
+gSVD_3D_based of G[1000*1000*100] time: 12.078718s
+gSVD_3D_based of G[1000*1000*200] time: 22.342267s
+gSVD_3D_based of G[1000*1000*300] time: 32.637053s
+gSVD_3D_based of G[1000*1000*400] time: 43.063603s
+gSVD_3D_based of G[1000*1000*500] time: 53.273744s
+gSVD_3D_based of G[1000*1000*600] time: 63.657189s
+gSVD_3D_based of G[1000*1000*700] time: 74.308444s
+gSVD_3D_based of G[1000*1000*800] time: 84.262969s
+gSVD_3D_based of G[1000*1000*900] time: 95.147320s
+gSVD_3D_batched of G[1000*1000*100] time: 11.056000s
+gSVD_3D_batched of G[1000*1000*200] time: 21.315946s
+gSVD_3D_batched of G[1000*1000*300] time: 31.696391s
+gSVD_3D_batched of G[1000*1000*400] time: 42.277880s
+gSVD_3D_batched of G[1000*1000*500] time: 52.481608s
+gSVD_3D_batched of G[1000*1000*600] time: 62.881395s
+gSVD_3D_batched of G[1000*1000*700] time: 73.312465s
+CUBLAS initialization failed!
+CUBLAS initialization failed!
+CUBLAS initialization failed!
+gSVD_3D_1000 of G[1000*1000*1000] time: 55.288390s
+gSVD_3D_1000 of G[1000*1000*1100] time: 65.079821s
+gSVD_3D_1000 of G[1000*1000*1200] time: 87.848762s
+gSVD_3D_1000 of G[1000*1000*1300] time: 102.535414s
+CUBLAS initialization failed!
+CUBLAS initialization failed!
+CUBLAS initialization failed!
+CUBLAS initialization failed!
+CUBLAS initialization failed!
+CUBLAS initialization failed!
+CUBLAS initialization failed!
+gSVD_3D_500 of G[500*500*1000] time: 7.117410s
+gSVD_3D_500 of G[500*500*1100] time: 7.637133s
+gSVD_3D_500 of G[500*500*1200] time: 8.384917s
+gSVD_3D_500 of G[500*500*1300] time: 9.211634s
+gSVD_3D_500 of G[500*500*1400] time: 9.727601s
+gSVD_3D_500 of G[500*500*1500] time: 10.439526s
+gSVD_3D_500 of G[500*500*1600] time: 10.991031s
+gSVD_3D_500 of G[500*500*1700] time: 11.820870s
+gSVD_3D_500 of G[500*500*1800] time: 12.536226s
+gSVD_3D_500 of G[500*500*1900] time: 13.070112s
+gSVD_3D_500 of G[500*500*2000] time: 13.746581s
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+Input error: based or batched
+gSVD_3D_based of G[500*500*1000] time: 30.113851s
+gSVD_3D_based of G[500*500*1100] time: 32.986691s
+gSVD_3D_based of G[500*500*1200] time: 37.161758s
+gSVD_3D_based of G[500*500*1300] time: 38.828374s
+gSVD_3D_based of G[500*500*1400] time: 42.074576s
+gSVD_3D_based of G[500*500*1500] time: 44.888122s
+gSVD_3D_based of G[500*500*1600] time: 47.776564s
+gSVD_3D_based of G[500*500*1700] time: 50.566499s
+gSVD_3D_based of G[500*500*1800] time: 53.758067s
+gSVD_3D_based of G[500*500*1900] time: 57.014195s
+gSVD_3D_based of G[500*500*2000] time: 59.728919s
+gSVD_3D_batched of G[500*500*1000] time: 7.400356s
+gSVD_3D_batched of G[500*500*1100] time: 7.972789s
+gSVD_3D_batched of G[500*500*1200] time: 8.756044s
+gSVD_3D_batched of G[500*500*1300] time: 9.608620s
+gSVD_3D_batched of G[500*500*1400] time: 10.173379s
+gSVD_3D_batched of G[500*500*1500] time: 10.943983s
+gSVD_3D_batched of G[500*500*1600] time: 11.542376s
+gSVD_3D_batched of G[500*500*1700] time: 12.418722s
+gSVD_3D_batched of G[500*500*1800] time: 13.174938s
+gSVD_3D_batched of G[500*500*1900] time: 14.808450s
+gSVD_3D_batched of G[500*500*2000] time: 16.713440s
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+ ** On entry to SGEMM  parameter number 8 had an illegal value
+Input error: based or batched
+gSVD_3D_batched of G[500*500*1000] time: 7.390513s
+gSVD_3D_batched of G[500*500*1100] time: 7.939802s
+gSVD_3D_batched of G[500*500*1200] time: 8.733034s
+gSVD_3D_batched of G[500*500*1300] time: 9.598149s
+gSVD_3D_batched of G[500*500*1400] time: 10.137200s
+gSVD_3D_batched of G[500*500*1500] time: 10.911742s
+gSVD_3D_batched of G[500*500*1600] time: 11.517621s
+gSVD_3D_batched of G[500*500*1700] time: 12.390329s
+gSVD_3D_batched of G[500*500*1800] time: 13.151538s
+gSVD_3D_batched of G[500*500*1900] time: 13.773684s
+gSVD_3D_batched of G[500*500*2000] time: 14.495337s

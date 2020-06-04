@@ -1,0 +1,67 @@
+num_miss: 1	miss_index: 4 	Frame: 10	Error: 0.047744	 Time: 70.547855
+num_miss: 2	miss_index: 4 1 	Frame: 10	Error: 0.053476	 Time: 71.796806
+num_miss: 1	miss_index: 2 	Frame: 10	Error: 0.043766	 Time: 71.629175
+num_miss: 1	miss_index: 2 	Frame: 10	Error: 0.043694	 Time: 70.508760
+num_miss: 1	miss_index: 8 	Frame: 10	Error: 0.052859	 Time: 71.202146
+num_miss: 1	miss_index: 6 	Frame: 10	Error: 0.054745	 Time: 70.846995
+num_miss: 1	miss_index: 7 	Frame: 10	Error: 0.043016	 Time: 71.534577
+num_miss: 2	miss_index: 3 4 	Frame: 10	Error: 0.046229	 Time: 71.312380
+num_miss: 2	miss_index: 1 5 	Frame: 10	Error: 0.050901	 Time: 71.422788
+num_miss: 2	miss_index: 0 7 	Frame: 10	Error: 0.070140	 Time: 70.433050
+num_miss: 2	miss_index: 6 4 	Frame: 10	Error: 0.057663	 Time: 71.486485
+num_miss: 2	miss_index: 4 0 	Frame: 10	Error: 0.056323	 Time: 70.547068
+num_miss: 3	miss_index: 5 6 3 	Frame: 10	Error: 0.069215	 Time: 71.185940
+num_miss: 3	miss_index: 6 4 8 	Frame: 10	Error: 0.074825	 Time: 70.340777
+num_miss: 3	miss_index: 0 5 4 	Frame: 10	Error: 0.092853	 Time: 71.278554
+num_miss: 3	miss_index: 7 2 0 	Frame: 10	Error: 0.062621	 Time: 70.449858
+num_miss: 3	miss_index: 2 8 5 	Frame: 10	Error: 0.055657	 Time: 71.327700
+num_miss: 4	miss_index: 3 5 1 6 	Frame: 10	Error: 0.186098	 Time: 70.421240
+num_miss: 4	miss_index: 0 1 2 8 	Frame: 10	Error: 0.091627	 Time: 71.043518
+num_miss: 4	miss_index: 2 0 5 6 	Frame: 10	Error: 0.089010	 Time: 71.545955
+num_miss: 4	miss_index: 4 6 5 8 	Frame: 10	Error: 0.074486	 Time: 70.601153
+num_miss: 4	miss_index: 8 6 7 5 	Frame: 10	Error: 0.139089	 Time: 71.461659
+num_miss: 5	miss_index: 6 0 8 1 4 	Frame: 10	Error: 0.132741	 Time: 71.696131
+num_miss: 5	miss_index: 1 6 4 8 0 	Frame: 10	Error: 0.133729	 Time: 70.402953
+num_miss: 5	miss_index: 1 7 0 8 6 	Frame: 10	Error: 0.166002	 Time: 71.109899
+num_miss: 5	miss_index: 6 8 3 0 1 	Frame: 10	Error: 0.055380	 Time: 71.398196
+num_miss: 5	miss_index: 4 7 0 6 8 	Frame: 10	Error: 0.179628	 Time: 70.468494
+num_miss: 6	miss_index: 8 1 0 6 5 7 	Frame: 10	Error: 0.182411	 Time: 70.465739
+num_miss: 6	miss_index: 1 4 3 8 2 5 	Frame: 10	Error: 0.066366	 Time: 71.094406
+num_miss: 6	miss_index: 8 0 1 7 6 5 	Frame: 10	Error: 0.183444	 Time: 70.400009
+num_miss: 6	miss_index: 0 7 5 2 3 6 	Frame: 10	Error: 0.090802	 Time: 71.460100
+num_miss: 6	miss_index: 4 2 3 5 7 8 	Frame: 10	Error: 0.058338	 Time: 71.164824
+num_miss: 7	miss_index: 6 1 7 3 0 4 5 	Frame: 10	Error: 0.064926	 Time: 71.221313
+num_miss: 7	miss_index: 5 4 1 7 8 0 2 	Frame: 10	Error: 0.068140	 Time: 70.437613
+num_miss: 7	miss_index: 3 6 4 2 1 8 5 	Frame: 10	Error: 0.072130	 Time: 71.337331
+num_miss: 7	miss_index: 8 1 7 3 2 0 5 	Frame: 10	Error: 0.149395	 Time: 70.475904
+num_miss: 7	miss_index: 6 3 7 4 2 1 5 	Frame: 10	Error: 0.072846	 Time: 71.234068
+num_miss: 8	miss_index: 0 5 7 4 8 6 2 1 	Frame: 10	Error: 0.072576	 Time: 71.288738
+num_miss: 8	miss_index: 7 8 2 1 3 5 6 0 	Frame: 10	Error: 0.067335	 Time: 70.411524
+num_miss: 8	miss_index: 5 7 8 4 3 0 6 1 	Frame: 10	Error: 0.107867	 Time: 70.878057
+num_miss: 8	miss_index: 5 4 2 3 7 8 1 6 	Frame: 10	Error: 0.140963	 Time: 71.316370
+num_miss: 8	miss_index: 5 0 6 7 2 3 1 8 	Frame: 10	Error: 0.067065	 Time: 71.065219
+num_miss: 9	miss_index: 6 5 2 8 3 4 7 1 0 	Frame: 10	Error: 0.080724	 Time: 71.033261
+num_miss: 9	miss_index: 3 4 6 8 2 7 5 1 0 	Frame: 10	Error: 0.080130	 Time: 70.835928
+num_miss: 9	miss_index: 3 5 8 6 7 1 2 4 0 	Frame: 10	Error: 0.081110	 Time: 71.438319
+num_miss: 9	miss_index: 8 4 5 0 1 7 2 3 6 	Frame: 10	Error: 0.081085	 Time: 70.688279
+num_miss: 9	miss_index: 8 4 7 2 0 6 3 5 1 	Frame: 10	Error: 0.080667	 Time: 71.252822
+num_miss: 3	miss_index: 5 8 3 	Frame: 10	Error: 0.047564	 Time: 70.334589
+num_miss: 3	miss_index: 0 8 4 	Frame: 10	Error: 0.080520	 Time: 71.374477
+num_miss: 3	miss_index: 3 2 5 	Frame: 10	Error: 0.062058	 Time: 70.746810
+num_miss: 3	miss_index: 4 6 7 	Frame: 10	Error: 0.055887	 Time: 71.227158
+num_miss: 3	miss_index: 2 7 0 	Frame: 10	Error: 0.062014	 Time: 70.327899
+num_miss: 4	miss_index: 7 2 3 5 	Frame: 10	Error: 0.066434	 Time: 70.532045
+num_miss: 4	miss_index: 3 8 6 1 	Frame: 10	Error: 0.157841	 Time: 71.500583
+num_miss: 4	miss_index: 3 4 7 2 	Frame: 10	Error: 0.057725	 Time: 70.418697
+num_miss: 4	miss_index: 3 8 6 0 	Frame: 10	Error: 0.146861	 Time: 71.229621
+num_miss: 4	miss_index: 5 6 4 0 	Frame: 10	Error: 0.092589	 Time: 70.771081
+num_miss: 5	miss_index: 8 7 1 4 6 	Frame: 10	Error: 0.079165	 Time: 70.775705
+num_miss: 5	miss_index: 8 1 7 6 5 	Frame: 10	Error: 0.099031	 Time: 71.757298
+num_miss: 5	miss_index: 3 7 8 0 2 	Frame: 10	Error: 0.068363	 Time: 70.397821
+num_miss: 5	miss_index: 6 4 0 2 5 	Frame: 10	Error: 0.120930	 Time: 71.274730
+num_miss: 5	miss_index: 8 2 5 6 0 	Frame: 10	Error: 0.061240	 Time: 70.432900
+num_miss: 4	miss_index: 4 0 2 7 	Frame: 10	Error: 0.067347	 Time: 70.706382
+num_miss: 4	miss_index: 1 3 2 4 	Frame: 10	Error: 0.057199	 Time: 71.222363
+num_miss: 4	miss_index: 3 5 8 6 	Frame: 10	Error: 0.058023	 Time: 70.525000
+num_miss: 4	miss_index: 5 2 7 4 	Frame: 10	Error: 0.052742	 Time: 70.771557
+num_miss: 4	miss_index: 4 6 2 3 	Frame: 10	Error: 0.090727	 Time: 71.520031

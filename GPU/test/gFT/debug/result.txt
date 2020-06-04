@@ -1,0 +1,122 @@
+gFFT_1D of G[1000*1] time: 0.932960s
+gFFT_1D of G[2000*1] time: 1.217188s
+gFFT_1D of G[3000*1] time: 1.664975s
+gFFT_1D of G[4000*1] time: 2.385186s
+gFFT_1D of G[5000*1] time: 3.232056s
+gFFT_1D of G[6000*1] time: 4.380012s
+gFFT_1D of G[7000*1] time: 5.633893s
+gFFT_1D of G[8000*1] time: 7.101763s
+gFFT_1D of G[9000*1] time: 9.299256s
+gFFT_1D of G[10000*1] time: 10.926017s
+gFFT_1D of G[11000*1] time: 13.704821s
+gFFT_1D of G[12000*1] time: 16.093448s
+gFFT_1D of G[13000*1] time: 19.418510s
+gFFT_1D of G[14000*1] time: 22.336189s
+gFFT_1D of G[15000*1] time: 26.317509s
+gFFT_1D of G[16000*1] time: 30.491199s
+gFFT_1D of G[17000*1] time: 35.362298s
+gFFT_1D of G[18000*1] time: 40.338307s
+gFFT_1D of G[19000*1] time: 44.841560s
+gFFT_1D of G[20000*1] time: 49.193161s
+GFT_2D_based of G[1000*10000] time: 1.149791s
+GFT_2D_based of G[2000*10000] time: 1.917582s
+GFT_2D_based of G[3000*10000] time: 3.590780s
+GFT_2D_based of G[4000*10000] time: 6.060808s
+GFT_2D_based of G[5000*10000] time: 11.148829s
+GFT_2D_based of G[6000*10000] time: 18.697527s
+GFT_2D_based of G[7000*10000] time: 28.022535s
+GFT_2D_based of G[8000*10000] time: 35.932720s
+GFT_2D_based of G[9000*10000] time: 58.933720s
+GFT_2D_based of G[10000*10000] time: 82.452493s
+GFT_2D_based of G[1000*10000] time: 1.178144s
+GFT_2D_based of G[2000*10000] time: 1.923249s
+GFT_2D_based of G[3000*10000] time: 3.472504s
+GFT_2D_based of G[4000*10000] time: 5.635222s
+GFT_2D_based of G[5000*10000] time: 10.006381s
+GFT_2D_based of G[6000*10000] time: 16.461522s
+GFT_2D_based of G[7000*10000] time: 24.597622s
+GFT_2D_based of G[8000*10000] time: 31.504162s
+GFT_2D_based of G[9000*10000] time: 50.866271s
+GFT_2D_based of G[10000*10000] time: 68.235809s
+GFT_2D_based of G[1000*10000] time: 1.065631s
+GFT_2D_based of G[2000*10000] time: 1.731248s
+GFT_2D_based of G[3000*10000] time: 3.066829s
+GFT_2D_based of G[4000*10000] time: 4.998273s
+GFT_2D_based of G[5000*10000] time: 9.050596s
+GFT_2D_based of G[6000*10000] time: 15.215708s
+GFT_2D_based of G[7000*10000] time: 22.773436s
+GFT_2D_based of G[8000*10000] time: 29.209408s
+GFT_2D_based of G[9000*10000] time: 51.282109s
+GFT_2D_based of G[10000*10000] time: 73.832820s
+GFT_2D_based of G[1000*10000] time: 1.092253s
+GFT_2D_based of G[2000*10000] time: 1.524618s
+GFT_2D_based of G[3000*10000] time: 2.156194s
+GFT_2D_based of G[4000*10000] time: 3.043312s
+GFT_2D_based of G[5000*10000] time: 4.128980s
+GFT_2D_based of G[6000*10000] time: 5.521616s
+GFT_2D_based of G[7000*10000] time: 6.875967s
+GFT_2D_based of G[8000*10000] time: 8.487322s
+GFT_2D_based of G[9000*10000] time: 10.536091s
+GFT_2D_based of G[10000*10000] time: 12.760560s
+GFT_2D_based of G[1000*10000] time: 1.089094s
+GFT_2D_based of G[2000*10000] time: 1.526853s
+GFT_2D_based of G[3000*10000] time: 2.190109s
+GFT_2D_based of G[4000*10000] time: 3.074429s
+GFT_2D_based of G[5000*10000] time: 4.151181s
+GFT_2D_based of G[6000*10000] time: 5.429445s
+GFT_2D_based of G[7000*10000] time: 6.963399s
+GFT_2D_based of G[8000*10000] time: 8.535285s
+GFT_2D_based of G[9000*10000] time: 10.565008s
+GFT_2D_based of G[10000*10000] time: 12.709616s
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+input file don't exist!
+GFT_3D_batched of G[1000*1000*100] time: 0.908280s
+GFT_3D_batched of G[1000*1000*200] time: 0.995586s
+GFT_3D_batched of G[1000*1000*300] time: 1.173390s
+GFT_3D_batched of G[1000*1000*400] time: 1.289648s
+GFT_3D_batched of G[1000*1000*500] time: 1.408989s
+GFT_3D_batched of G[1000*1000*600] time: 1.543908s
+GFT_3D_batched of G[1000*1000*700] time: 1.691788s
+GFT_3D_batched of G[1000*1000*800] time: 2.139210s
+GFT_3D_batched of G[1000*1000*900] time: 2.364064s
+GFT_3D_batched of G[1000*1000*1000] time: 2.512584s
+GFT_3D_batched of G[1000*1000*100] time: 0.852616s
+GFT_3D_batched of G[1000*1000*200] time: 0.920876s
+GFT_3D_batched of G[1000*1000*300] time: 1.028437s
+GFT_3D_batched of G[1000*1000*400] time: 1.124873s
+GFT_3D_batched of G[1000*1000*500] time: 1.229324s
+GFT_3D_batched of G[1000*1000*600] time: 1.540885s
+GFT_3D_batched of G[1000*1000*700] time: 1.459679s
+GFT_3D_batched of G[1000*1000*800] time: 1.831419s
+GFT_3D_batched of G[1000*1000*900] time: 1.744941s
+GFT_3D_batched of G[1000*1000*1000] time: 2.120784s
+GFT_3D_based of G[1000*1000*100] time: 1.252700s
+GFT_3D_based of G[1000*1000*200] time: 1.328169s
+GFT_3D_based of G[1000*1000*300] time: 1.455533s
+GFT_3D_based of G[1000*1000*400] time: 1.476209s
+GFT_3D_based of G[1000*1000*500] time: 1.590990s
+GFT_3D_based of G[1000*1000*600] time: 1.686806s
+GFT_3D_based of G[1000*1000*700] time: 2.048138s
+GFT_3D_based of G[1000*1000*800] time: 2.194108s
+GFT_3D_based of G[1000*1000*900] time: 2.387771s
+GFT_3D_based of G[1000*1000*1000] time: 2.157263s
+GFT_3D_based of G[1000*1000*100] time: 1.260003s
+GFT_3D_based of G[1000*1000*200] time: 1.331326s

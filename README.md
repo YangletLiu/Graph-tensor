@@ -1,0 +1,2 @@
+# Graph_Tensor_Computing_CUDA_Lib_GPU
+cuGraph-Tensor of eight graph-tensor operations, including: graph shift (g-shift), graph Fourier transform (g-Ft), inverse graph Fourier transform (inverse g-Ft), graph filter (g-filter), graph convolution (g-convolution), graph-tensor product (g-product), graph-tensor SVD (g-SVD) and graph-tensor QR (g-QR). We encapsulate these operations into an opensource library and provide BLAS-like interfaces for ease of use.

@@ -15,9 +15,23 @@ iU = U';
 % inverse graph fourier transform
 [~, ~, n3] = size(fourierGraph);
 timeGraph = zeros(size(fourierGraph));
-for i=1:n3
-    for j=1:n3 
-        timeGraph(:, :, i) = timeGraph(:, :, i) + iU(i, j)*fourierGraph(:, :, j);
-    end
-end    
+%%
+% for i=1:n3
+%     for j=1:n3 
+%         timeGraph(:, :, i) = timeGraph(:, :, i) + iU(i, j)*fourierGraph(:, :, j);
+%     end
+% end  
+
+%%
+% for i=1:n2
+%     timeGraph(:,i,:)=(iU*(reshape(fourierGraph(:,i,:),n1,n3))')';
+% end
+
+%%
+for i=1:n1
+   for j=1:n2
+       timeGraph(i, j, :) = iU*reshape(fourierGraph(i, j, :),[],1);
+   end
+end
+
 end

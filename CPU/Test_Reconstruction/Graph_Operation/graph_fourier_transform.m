@@ -13,11 +13,25 @@ function [fourierGraph] = graph_fourier_transform(timeGraph, U)
 % graph fourier transform
 [~, ~, n3] = size(timeGraph);
 fourierGraph = zeros(size(timeGraph));
-for i=1:n3
-    for j=1:n3 
-        fourierGraph(:, :, i) = fourierGraph(:, :, i) + U(i, j)*timeGraph(:, :, j);
-    end
-end    
+%%
+% for i=1:n3
+%     for j=1:n3 
+%         fourierGraph(:, :, i) = fourierGraph(:, :, i) + U(i, j)*timeGraph(:, :, j);
+%     end
+% end  
+
+%%
+% for i=1:n2
+%     fourierGraph(:,i,:)=(U*(reshape(timeGraph(:,i,:),n1,n3))')';
+% end
+
+%%
+for i=1:n1
+   for j=1:n2
+       fourierGraph(i, j, :) = U*reshape(timeGraph(i, j, :),[],1);
+  end
+end
+
 end
 
 

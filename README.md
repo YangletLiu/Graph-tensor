@@ -1,5 +1,5 @@
 # cuGraph-Tensor
-cuGraph-Tensor library implements eight key graph-tensor operations on top of CUDA libraries including cuBLAS, cuSolver, and existing libraries including Magma and KBLAS. We encapsulate these operations into an opensource library and provide BLAS-like interfaces for ease of use. In addition, cuGraph-Tensor builds a graph data completion applicaiton for fast and accurate reconstruction of incomplete graph data.
+cuGraph-Tensor library implements eight key graph-tensor operations on top of CUDA libraries including cuBLAS, cuSolver, and existing libraries including Magma and KBLAS. We encapsulate these operations into an opensource library and provide BLAS-like interfaces for ease of use. In addition, cuGraph-Tensor builds a graph data completiona pplicaitonf or fast and accurate reconstruction of incomplete graph data.
 
 ## References
 Tao Zhang, Xiao-Yang Liu, Xiaodong Wang, and Anwar Walid, “cuTensor-Tubal: Efficient primitives for tubal-rank tensor learning operations on GPUs,” IEEE Transactions on Parallel and Distributed Systems, vol. 31, no. 3, pp. 595–610, 2020.

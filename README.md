@@ -8,6 +8,8 @@ Tao Zhang and Xiao-Yang Liu, “cuTensor-tubal: Optimized GPU library for low-tu
 
 Tao Zhang, Xiao-Yang Liu, and Xiaodong Wang, “High performance GPU tensor completion with tubal-sampling pattern,” IEEE Trans. Parallel Distrib. Syst., vol. 31, no. 7, pp. 1724–1739, 2020.
 
+Xiao-Yang Liu, Shuchin Aeron, Vaneet Aggarwal, Xiaodong Wang. Low-tubal-rank tensor completion using alternating minimization. IEEE Transactions on Information Theory, 2019.
+
 ## Graph-tensor Operations
 graph shift (g-shift), graph Fourier transform (g-Ft), inverse graph Fourier transform (inverse g-Ft), graph filter (g-filter), graph convolution (g-convolution), graph-tensor product (g-product), graph-tensor SVD (g-SVD) and graph-tensor QR (g-QR)
 

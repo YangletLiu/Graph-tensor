@@ -20,3 +20,21 @@ The Tubal-Alter-Min algorithm [4] was proposed for robust data completion based 
 Comparing with CPU-based GSPBOX and CPU MATLAB implementations running on two Xeon CPUs, g-shift, g-FT, inverse g-FT, g-filter, g-convolution, g-product, g-SVD and g-QR achieve up to 133.98X, 96.09X, 90.14X, 12.64X, 130.61X, 141.71X, 51.18X and 142.12X speedups, respectively (on average 35.27X, 18.54X, 18.12X, 4.47X, 38.16X, 27.60X, 7.91X and 23.83X faster over the GPU baseline implementation).
 
 The graph data completion application achieves up to 174.38X speedup over the CPU MATLAB implementation, and up to 3.82X speedup with better accuracy over the GPU-based tensor completion in the cuTensor-tubal library.
+
+## Folder directory
+### CPU/Test_Reconstruction
+This directory includes graph-tensor operation and graph-tensor resconstruction. test_reconstruction_real.m test the CPark video. test_reconstruction_simulataion.m test the walking data. test_reconstruction_simulataion.m test The simulation data.
+
+### GPU
+include: some header file (.h), define some interfaces
+
+operation: implemente interface and implement graph-tensor operations
+
+bin: generated .o file
+
+lib: compressed library .a file
+
+app: graph-tensor completion applications
+
+test: each graph-tensor operation have a separate folder. For example, g-FT folder includes test_gFT.cpp and debug folder, that includes makefile and script to run the program
+

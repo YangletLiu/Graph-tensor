@@ -2,19 +2,19 @@
 cuGraph-Tensor library implements eight key graph-tensor operations on top of CUDA libraries including cuBLAS, cuSolver, and existing libraries including Magma and KBLAS. We encapsulate these operations into an opensource library and provide BLAS-like interfaces for ease of use. In addition, cuGraph-Tensor builds a graph data completiona pplicaitonf or fast and accurate reconstruction of incomplete graph data.
 
 ## References
-Tao Zhang, Xiao-Yang Liu, Xiaodong Wang, and Anwar Walid, “cuTensor-Tubal: Efficient primitives for tubal-rank tensor learning operations on GPUs,” IEEE Transactions on Parallel and Distributed Systems, vol. 31, no. 3, pp. 595–610, 2020.
+[1] Tao Zhang, Xiao-Yang Liu, Xiaodong Wang, and Anwar Walid, “cuTensor-Tubal: Efficient primitives for tubal-rank tensor learning operations on GPUs,” IEEE Transactions on Parallel and Distributed Systems, vol. 31, no. 3, pp. 595–610, 2020.
 
-Tao Zhang and Xiao-Yang Liu, “cuTensor-tubal: Optimized GPU library for low-tubal-rank tensors,” in 44th IEEE Int. Conf. Acoust., Speech and Signal Proces. IEEE, 2019, pp. 8583–8587.
+[2] Tao Zhang and Xiao-Yang Liu, “cuTensor-tubal: Optimized GPU library for low-tubal-rank tensors,” in 44th IEEE Int. Conf. Acoust., Speech and Signal Proces. IEEE, 2019, pp. 8583–8587.
 
-Tao Zhang, Xiao-Yang Liu, and Xiaodong Wang, “High performance GPU tensor completion with tubal-sampling pattern,” IEEE Trans. Parallel Distrib. Syst., vol. 31, no. 7, pp. 1724–1739, 2020.
+[3] Tao Zhang, Xiao-Yang Liu, and Xiaodong Wang, “High performance GPU tensor completion with tubal-sampling pattern,” IEEE Trans. Parallel Distrib. Syst., vol. 31, no. 7, pp. 1724–1739, 2020.
 
-Xiao-Yang Liu, Shuchin Aeron, Vaneet Aggarwal, Xiaodong Wang. Low-tubal-rank tensor completion using alternating minimization. IEEE Transactions on Information Theory, 2019.
+[4] Xiao-Yang Liu, Shuchin Aeron, Vaneet Aggarwal, Xiaodong Wang. Low-tubal-rank tensor completion using alternating minimization. IEEE Transactions on Information Theory, 2019.
 
 ## Graph-tensor Operations
 graph shift (g-shift), graph Fourier transform (g-Ft), inverse graph Fourier transform (inverse g-Ft), graph filter (g-filter), graph convolution (g-convolution), graph-tensor product (g-product), graph-tensor SVD (g-SVD) and graph-tensor QR (g-QR)
 
 ## Application
-The Tubal-Alter-Min algorithm was proposed for robust data completion based on the low-tubal-rank tensor model. However, this algorithm is compute-intensive and its running time increases exponentially with the growing of tensor size and dimension. We exploit the high performance graph-tensor operartions in the cuGraph-Tensor library to solve this limitation.
+The Tubal-Alter-Min algorithm [4] was proposed for robust data completion based on the low-tubal-rank tensor model. However, this algorithm is compute-intensive and its running time increases exponentially with the growing of tensor size and dimension. We exploit the high performance graph-tensor operartions in the cuGraph-Tensor library to solve this limitation.
 
 ## Results
 Comparing with CPU-based GSPBOX and CPU MATLAB implementations running on two Xeon CPUs, g-shift, g-FT, inverse g-FT, g-filter, g-convolution, g-product, g-SVD and g-QR achieve up to 133.98X, 96.09X, 90.14X, 12.64X, 130.61X, 141.71X, 51.18X and 142.12X speedups, respectively (on average 35.27X, 18.54X, 18.12X, 4.47X, 38.16X, 27.60X, 7.91X and 23.83X faster over the GPU baseline implementation).

@@ -40,6 +40,7 @@ test: each graph-tensor operation have a separate folder. For example, g-FT fold
 
 ## Build & Run
 On linux
+
 for GPU
 ```
 cd Graph-tensor

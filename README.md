@@ -23,7 +23,7 @@ The graph data completion application achieves up to 174.38X speedup over the CP
 
 ## Folder directory
 ### CPU/Test_Reconstruction
-This directory includes graph-tensor operation and graph-tensor resconstruction. test_reconstruction_real.m test the CPark video. test_reconstruction_simulataion.m test the walking data. test_reconstruction_simulataion.m test The simulation data.
+This directory includes graph-tensor operation and graph-tensor resconstruction. test_reconstruction_real.m test the CPark video. test_reconstruction_simulataion.m test the walking data. test_reconstruction_simulataion.m test the simulation data.
 
 ### GPU
 include: some header file (.h), define some interfaces

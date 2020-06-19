@@ -50,6 +50,11 @@ cd /GPU/test/g-FT/debug/
 make
 #直接执行运行脚本
 ./run.sh
+
+#测试应用
+cd /GPU/app/
+#直run.sh接执行运行脚本即可
+./run.sh
 ```
 
 for CPU
@@ -58,5 +63,9 @@ cd CPU/Test_Reconstrction/
 #直接运行对应的.m程序
 matlab
 test_reconstruction_real
+#测试单独的graph-tensor operation
+cd Graph-Operation
+#例如测试g-FT, 其他操作一样
 matlab
+test_gft
 ```

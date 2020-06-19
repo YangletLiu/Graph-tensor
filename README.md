@@ -40,14 +40,22 @@ test: each graph-tensor operation have a separate folder. For example, g-FT fold
 
 ## Build & Run
 On linux
-
+for GPU
 ```
 cd Graph-tensor
 make
-#去对应的操作下,如g-FT/debug下make
+#去对应的操作下, 如g-FT/debug目录下make
 cd /GPU/test/g-FT/debug/
 make
 #直接执行运行脚本
 ./run.sh
+```
 
+for CPU
+```
+cd CPU/Test_Reconstrction/
+#直接运行对应的.m程序
+matlab
+test_reconstruction_real
+matlab
 ```

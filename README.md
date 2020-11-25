@@ -69,3 +69,17 @@ cd Graph-Operation
 matlab
 test_gft
 ```
+
+##Citing cuGraph-Tensor
+@article{ZHANG2021125,
+title = "High performance GPU primitives for graph-tensor learning operations",
+journal = "Journal of Parallel and Distributed Computing",
+volume = "148",
+pages = "125 - 137",
+year = "2021",
+issn = "0743-7315",
+doi = "https://doi.org/10.1016/j.jpdc.2020.10.011",
+url = "http://www.sciencedirect.com/science/article/pii/S0743731520304007",
+author = "Tao Zhang and Wang Kan and Xiao-Yang Liu",
+keywords = "GPU, Graph-tensor, Graph operations, Graph data processing, Library",
+}

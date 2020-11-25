@@ -71,6 +71,7 @@ test_gft
 ```
 
 ##Citing cuGraph-Tensor
+```
 @article{ZHANG2021125,
 title = "High performance GPU primitives for graph-tensor learning operations",
 journal = "Journal of Parallel and Distributed Computing",
@@ -83,3 +84,4 @@ url = "http://www.sciencedirect.com/science/article/pii/S0743731520304007",
 author = "Tao Zhang and Wang Kan and Xiao-Yang Liu",
 keywords = "GPU, Graph-tensor, Graph operations, Graph data processing, Library",
 }
+```

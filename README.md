@@ -70,7 +70,7 @@ matlab
 test_gft
 ```
 
-##Citing cuGraph-Tensor
+## Citing cuGraph-Tensor
 ```
 @article{ZHANG2021125,
 title = "High performance GPU primitives for graph-tensor learning operations",
